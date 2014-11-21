@@ -2,8 +2,8 @@
   "name": "bluebliss-2",
   "theme": "syntax",
   "version": "0.5.2",
-  "description": "Moved! : https://github.com/BenTheElder/bluebliss-2",
-  "repository": "https://github.com/BenTheElder/bluebliss-2",
+  "description": "Moved! : https://github.com/BenTheElder/bluebliss-atom",
+  "repository": "https://github.com/BenTheElder/bluebliss-atom",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
