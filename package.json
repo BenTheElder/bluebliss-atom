@@ -1,9 +1,9 @@
 {
-  "name": "bluebliss",
+  "name": "bluebliss-2",
   "theme": "syntax",
   "version": "0.5.2",
-  "description": "Atom port of my bluebliss sublime syntax theme.",
-  "repository": "https://github.com/BenTheElder/bluebliss",
+  "description": "Moved! : https://github.com/BenTheElder/bluebliss-2",
+  "repository": "https://github.com/BenTheElder/bluebliss-2",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
