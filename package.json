@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.1.0",
   "description": "Atom port of my bluebliss sublime syntax theme.",
-  "repository": "https://github.com/thebenjaneer/bluebliss",
+  "repository": "https://github.com/BenTheElder/bluebliss",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
