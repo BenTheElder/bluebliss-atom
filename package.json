@@ -1,7 +1,7 @@
 {
   "name": "bluebliss",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Atom port of my bluebliss sublime syntax theme.",
   "repository": "https://github.com/BenTheElder/bluebliss",
   "license": "MIT",
